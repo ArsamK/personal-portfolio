@@ -6,7 +6,10 @@ html{
 body{
   text-align: center;
 }
-
+.main-heading{
+  font-family: 'Sacramento', cursive;
+}
+  
 h4{
   color: #fefefe;
 }
